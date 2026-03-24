@@ -1,16 +1,25 @@
-## Hi there 👋
+Welcome to my GitHub profile! Here I share my work related to Data Analytics and Data Engineering.
 
-<!--
-**vanshikaguliani/vanshikaguliani** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Hi, I'm Vanshika 👋  
 
-Here are some ideas to get you started:
+## 💼 Data Analyst  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I am a Databricks certfied Data Analyst with experience in SQL, Power BI, and Databricks.  
+I work on analyzing data, building dashboards, and generating insights to support business decisions.
+
+## 🛠️ Skills  
+- SQL  
+- Power BI  
+- Python (Pandas, PySpark)  
+- Databricks  
+- Excel  
+
+## 📊 What I Do  
+- Data cleaning and transformation  
+- Dashboard development  
+- KPI tracking and reporting  
+- Data validation and analysis  
+
+## 📫 Connect with me  
+- LinkedIn: https://linkedin.com/in/vanshika3108
+- Email: vanshikaguliani3108@gmail.com
